@@ -1,5 +1,5 @@
 # cuberunner
-This is that weird game that you spotted on a random Instagram ad, just dramaticized. 
+This is that weird game that you spotted on a random Instagram ad, just dramaticized O.O
 
 ## Game Concept:
 CubeRunner is an engaging Android game developed using Unity, showcasing in-game physics and box colliders. The player takes control of a cube and must navigate through a challenging environment filled with moving obstacles. The objective of the game is to survive for as long as possible by avoiding collisions with the obstacles. The game features a timer that counts upwards, adding an element of time-based challenge to the gameplay. 
